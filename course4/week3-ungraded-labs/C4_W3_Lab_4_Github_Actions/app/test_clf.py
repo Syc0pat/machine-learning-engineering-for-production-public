@@ -16,3 +16,4 @@ def test_accuracy():
 
     # Accuracy should be over 90%
     assert acc > 0.9
+
